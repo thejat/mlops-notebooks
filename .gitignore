@@ -3,5 +3,6 @@
 *.pyc
 others
 pdf
-raw
+dev
 .ipynb_checkpoints
+*2021*.txt
