@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="676.6474"
+   height="504.72232"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="overview.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path4278"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="349.51887"
+     inkscape:cy="277.18429"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-108.625,-386.63797)">
+    <g
+       id="g3878"
+       transform="translate(-0.20909572,-61.659454)">
+      <rect
+         y="902.94476"
+         x="357.37033"
+         height="49.57497"
+         width="179.57497"
+         id="rect2985"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3755"
+         y="939.22028"
+         x="372.72256"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         xml:space="preserve"><tspan
+           y="939.22028"
+           x="372.72256"
+           id="tspan3757"
+           sodipodi:role="line">Consumer</tspan></text>
+    </g>
+    <g
+       id="g3883"
+       transform="translate(-25.25407,-50.928925)">
+      <rect
+         y="892.21423"
+         x="630.45129"
+         height="49.57497"
+         width="179.57497"
+         id="rect2985-3"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3755-0"
+         y="928.48981"
+         x="645.80353"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         xml:space="preserve"><tspan
+           y="928.48981"
+           x="645.80353"
+           id="tspan3757-3"
+           sodipodi:role="line">Consumer</tspan></text>
+    </g>
+    <g
+       id="g3873"
+       transform="translate(10.014178,-65.071075)">
+      <rect
+         y="906.35638"
+         x="99.111046"
+         height="49.57497"
+         width="179.57497"
+         id="rect2985-0"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3755-9"
+         y="942.6319"
+         x="114.46328"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         xml:space="preserve"><tspan
+           y="942.6319"
+           x="114.46328"
+           id="tspan3757-2"
+           sodipodi:role="line">Consumer</tspan></text>
+    </g>
+    <g
+       id="g3888"
+       transform="translate(-0.08754738,16.162415)">
+      <rect
+         y="370.97556"
+         x="109.21255"
+         height="49.57497"
+         width="179.57497"
+         id="rect2985-3-5"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3755-0-4"
+         y="407.05905"
+         x="132.75179"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         xml:space="preserve"><tspan
+           y="407.05905"
+           x="132.75179"
+           id="tspan3757-3-0"
+           sodipodi:role="line">Producer</tspan></text>
+    </g>
+    <g
+       id="g3893"
+       transform="translate(0.50506584,16.162445)">
+      <rect
+         y="370.97552"
+         x="356.69995"
+         height="49.57497"
+         width="179.57497"
+         id="rect2985-3-5-5"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3755-0-4-9"
+         y="407.05902"
+         x="380.23917"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         xml:space="preserve"><tspan
+           y="407.05902"
+           x="380.23917"
+           id="tspan3757-3-0-4"
+           sodipodi:role="line">Producer</tspan></text>
+    </g>
+    <g
+       id="g3898"
+       transform="translate(-8.2421877e-8,-16.162445)">
+      <rect
+         y="403.30042"
+         x="605.19745"
+         height="49.57497"
+         width="179.57497"
+         id="rect2985-3-5-6"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3755-0-4-92"
+         y="439.38391"
+         x="628.73669"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         xml:space="preserve"><tspan
+           y="439.38391"
+           x="628.73669"
+           id="tspan3757-3-0-2"
+           sodipodi:role="line">Producer</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="213.23543"
+       y="542.11328"
+       id="text3769"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3771"
+         x="213.23543"
+         y="542.11328">Kafka Cluster</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.99581969;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3905"
+       width="479.00418"
+       height="249.00418"
+       x="207.44662"
+       y="514.49707" />
+    <g
+       id="g3972"
+       transform="translate(25.830597,-56.920165)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3869"
+         y="652.84204"
+         x="235.42876"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         xml:space="preserve"><tspan
+           style="font-size:28px"
+           y="652.84204"
+           x="235.42876"
+           id="tspan3871"
+           sodipodi:role="line">Topic</tspan></text>
+      <rect
+         y="626.12842"
+         x="215.41595"
+         height="178.49304"
+         width="108.49304"
+         id="rect3903"
+         style="fill:none;stroke:#000000;stroke-width:1.50695217;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <g
+         transform="translate(-2.0245267,0)"
+         id="g3958">
+        <g
+           id="g3913"
+           transform="translate(-2.9864253,0)">
+          <rect
+             y="667.49402"
+             x="233.25717"
+             height="34.345188"
+             width="82.832512"
+             id="rect3907"
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text3909"
+             y="691.72662"
+             x="237.74107"
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+             xml:space="preserve"><tspan
+               style="font-size:20px"
+               y="691.72662"
+               x="237.74107"
+               id="tspan3911"
+               sodipodi:role="line">Partition</tspan></text>
+        </g>
+        <g
+           transform="translate(-2.9864253,45.456899)"
+           id="g3913-7">
+          <rect
+             y="667.49402"
+             x="233.25717"
+             height="34.345188"
+             width="82.832512"
+             id="rect3907-7"
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text3909-5"
+             y="691.72662"
+             x="237.74107"
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+             xml:space="preserve"><tspan
+               style="font-size:20px"
+               y="691.72662"
+               x="237.74107"
+               id="tspan3911-4"
+               sodipodi:role="line">Partition</tspan></text>
+        </g>
+        <g
+           transform="translate(-2.9864253,90.913772)"
+           id="g3913-8">
+          <rect
+             y="667.49402"
+             x="233.25717"
+             height="34.345188"
+             width="82.832512"
+             id="rect3907-1"
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text3909-2"
+             y="691.72662"
+             x="237.74107"
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+             xml:space="preserve"><tspan
+               style="font-size:20px"
+               y="691.72662"
+               x="237.74107"
+               id="tspan3911-8"
+               sodipodi:role="line">Partition</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3972-9"
+       transform="translate(177.28624,-56.920165)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3869-3"
+         y="652.84204"
+         x="235.42876"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         xml:space="preserve"><tspan
+           style="font-size:28px"
+           y="652.84204"
+           x="235.42876"
+           id="tspan3871-6"
+           sodipodi:role="line">Topic</tspan></text>
+      <rect
+         y="626.12842"
+         x="215.41595"
+         height="178.49304"
+         width="108.49304"
+         id="rect3903-8"
+         style="fill:none;stroke:#000000;stroke-width:1.50695217;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <g
+         transform="translate(-2.0245267,0)"
+         id="g3958-0">
+        <g
+           id="g3913-2"
+           transform="translate(-2.9864253,0)">
+          <rect
+             y="667.49402"
+             x="233.25717"
+             height="34.345188"
+             width="82.832512"
+             id="rect3907-10"
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text3909-51"
+             y="691.72662"
+             x="237.74107"
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+             xml:space="preserve"><tspan
+               style="font-size:20px"
+               y="691.72662"
+               x="237.74107"
+               id="tspan3911-1"
+               sodipodi:role="line">Partition</tspan></text>
+        </g>
+        <g
+           transform="translate(-2.9864253,45.456899)"
+           id="g3913-7-0">
+          <rect
+             y="667.49402"
+             x="233.25717"
+             height="34.345188"
+             width="82.832512"
+             id="rect3907-7-8"
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text3909-5-5"
+             y="691.72662"
+             x="237.74107"
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+             xml:space="preserve"><tspan
+               style="font-size:20px"
+               y="691.72662"
+               x="237.74107"
+               id="tspan3911-4-0"
+               sodipodi:role="line">Partition</tspan></text>
+        </g>
+        <g
+           transform="translate(-2.9864253,90.913772)"
+           id="g3913-8-6">
+          <rect
+             y="667.49402"
+             x="233.25717"
+             height="34.345188"
+             width="82.832512"
+             id="rect3907-1-4"
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text3909-2-6"
+             y="691.72662"
+             x="237.74107"
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+             xml:space="preserve"><tspan
+               style="font-size:20px"
+               y="691.72662"
+               x="237.74107"
+               id="tspan3911-8-2"
+               sodipodi:role="line">Partition</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3972-5"
+       transform="translate(328.74187,-56.920165)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3869-8"
+         y="652.84204"
+         x="235.42876"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+         xml:space="preserve"><tspan
+           style="font-size:28px"
+           y="652.84204"
+           x="235.42876"
+           id="tspan3871-62"
+           sodipodi:role="line">Topic</tspan></text>
+      <rect
+         y="626.12842"
+         x="215.41595"
+         height="178.49304"
+         width="108.49304"
+         id="rect3903-84"
+         style="fill:none;stroke:#000000;stroke-width:1.50695217;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <g
+         transform="translate(-2.0245267,0)"
+         id="g3958-7">
+        <g
+           id="g3913-24"
+           transform="translate(-2.9864253,0)">
+          <rect
+             y="667.49402"
+             x="233.25717"
+             height="34.345188"
+             width="82.832512"
+             id="rect3907-0"
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text3909-6"
+             y="691.72662"
+             x="237.74107"
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+             xml:space="preserve"><tspan
+               style="font-size:20px"
+               y="691.72662"
+               x="237.74107"
+               id="tspan3911-2"
+               sodipodi:role="line">Partition</tspan></text>
+        </g>
+        <g
+           transform="translate(-2.9864253,45.456899)"
+           id="g3913-7-9">
+          <rect
+             y="667.49402"
+             x="233.25717"
+             height="34.345188"
+             width="82.832512"
+             id="rect3907-7-9"
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text3909-5-0"
+             y="691.72662"
+             x="237.74107"
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+             xml:space="preserve"><tspan
+               style="font-size:20px"
+               y="691.72662"
+               x="237.74107"
+               id="tspan3911-4-8"
+               sodipodi:role="line">Partition</tspan></text>
+        </g>
+        <g
+           transform="translate(-2.9864253,90.913772)"
+           id="g3913-8-1">
+          <rect
+             y="667.49402"
+             x="233.25717"
+             height="34.345188"
+             width="82.832512"
+             id="rect3907-1-3"
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+          <text
+             sodipodi:linespacing="125%"
+             id="text3909-2-1"
+             y="691.72662"
+             x="237.74107"
+             style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+             xml:space="preserve"><tspan
+               style="font-size:20px"
+               y="691.72662"
+               x="237.74107"
+               id="tspan3911-8-1"
+               sodipodi:role="line">Partition</tspan></text>
+        </g>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 127.36325,50.081781 84.96482,77.784099"
+       id="path4259"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g3888"
+       inkscape:connection-start-point="d4"
+       transform="translate(98.625,386.63116)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 348.36272,50.08178 -0.015,77.7841"
+       id="path4261"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g3893"
+       inkscape:connection-start-point="d4"
+       transform="translate(98.625,386.63116)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 569.28416,50.08178 -84.96482,77.7841"
+       id="path4263"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#g3898"
+       inkscape:connection-start-point="d4"
+       transform="translate(98.625,386.63116)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 212.32819,376.87006 -84.96474,77.78409"
+       id="path4265"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#g3873"
+       inkscape:connection-end-point="d4"
+       transform="translate(98.625,386.63116)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 348.32371,376.87006 10e-6,77.78409"
+       id="path4267"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#g3878"
+       inkscape:connection-end-point="d4"
+       transform="translate(98.625,386.63116)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 484.31923,376.87006 84.96473,77.78409"
+       id="path4269"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-end="#g3883"
+       inkscape:connection-end-point="d4"
+       transform="translate(98.625,386.63116)" />
+  </g>
+</svg>
